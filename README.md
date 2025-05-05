@@ -3,7 +3,7 @@ This program utlizes core concepts learned in LIS 4613. This is a student record
 
 To use this program, please:
 
-1. Download all files in the repository.
+1. Download and unzip the Final file in the repository.
 2. use Replit or another tool to easily run the program.
 3. view the .env file to access the login information to access the SQL database on freesqlservers.com
 4. Run the program using npm run dev in the PowerShell
